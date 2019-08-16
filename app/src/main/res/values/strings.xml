@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AsyncTaskTest</string>
+    <string name="cancel">取消</string>
+    <string name="download">等待下载</string>
+</resources>
